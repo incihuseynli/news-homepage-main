@@ -22,7 +22,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./assets/images/desktop-screenshoot.png)
-![](./assets/images/mobile-screenshoot.png)
 
 
 ## My process
